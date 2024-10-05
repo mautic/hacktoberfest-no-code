@@ -1,0 +1,23 @@
+# Ignore editor settings directories and files
+
+# JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, PyCharm, etc.)
+.idea/
+.idea/*
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+\#*\#
+
+# Mac OS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
